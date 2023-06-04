@@ -1,0 +1,10 @@
+input: 5155 0, 3661 1, 
+results: 5405 0, 3411 1, 
+
+250 bits flipped
+8816 total
+250/8816 = 0.02835 = 2.835% bit failure
+
+1101 characters sent
+1101 characters recieved
+250/1101 = 0.30193 = 22.706% character failure
