@@ -1,0 +1,35 @@
+input: 5155 0's, 3661 1's
+total: 8816 bits, 1101 characters
+
+trial 1:
+
+recieved: 5437 0's, 3419 1's
+total: 8856 bits, 1539 characters
+
+False Bits: 282
+Bit error rate = 3.198%
+Character error maximum = 25.613%
+
+trial 2:
+
+recieved: 5385 0's, 3455 1's
+total: 8840 bits, 1519 characters
+
+False Bits: 230
+Bit error rate = 2.608%
+Character error maximum = 20.890%
+
+trial 3:
+
+recieved: 5412 0's, 3444 1's
+total: 8856 bits, 1552 characters
+
+False Bits: 257
+Bit error rate = 2.915%
+Character error maximum = 23.342%
+
+Averages:
+
+Average bit errors: 256.333
+Average bit error rate: 2.907%
+Average character error maximums: 23.281%
